@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Card
-      url: card.html
+      title: card
+      url: card_ex.html
     output: web
     title: card_deck_wiessall
   output: web
